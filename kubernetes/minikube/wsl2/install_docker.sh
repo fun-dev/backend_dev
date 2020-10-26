@@ -22,6 +22,4 @@ sudo apt -y install docker-ce docker-ce-cli containerd.io
 
 sudo service docker start
 
-echo "******* docker version *******"
-
 docker -v
